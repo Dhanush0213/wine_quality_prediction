@@ -53,9 +53,6 @@ After running the notebook, you should see the model's predictions and evaluatio
 
 If you have any ideas for improvements or find any issues, please open an issue or create a pull request. Contributions are welcome!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
